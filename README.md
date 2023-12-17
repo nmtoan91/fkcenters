@@ -1,3 +1,6 @@
+# Crisp clustering algorithm:
+## https://pypi.org/project/lshkrepresentatives/
+
 Python implementations of the FuzzykCenters algorithms for fuzzy clustering categorical data:
 
 ## Installation:
